@@ -13,7 +13,7 @@ class Isntascrapy1Spider(scrapy.Spider):
     name = 'instascrapy1'
     allowed_domains = ['instagram.com']
     start_urls = ['http://instagram.com/']
-    keyword = "키즈카페"
+    keyword = "육아소통환영"
     after = ""
     url = ""
 
